@@ -1,4 +1,4 @@
-# Create AKS Cluster
+# Create AKS Santosh Cluster
 
 ## Step-01: Introduction
 - Understand about AKS Cluster
